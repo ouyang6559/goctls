@@ -15,10 +15,10 @@ const DefaultGoZeroVersion = "v1.10.2"
 var OldGoZeroVersion = []string{"v1.7.1", "v1.7.2", "v1.7.3", "v1.7.4", "v1.7.5", "v1.7.6", "v1.8.0", "v1.8.1", "v1.8.2", "v1.8.3", "v1.8.4", "v1.8.5", "v1.9.0", "v1.9.1", "v1.9.2", "v1.9.3", "v1.9.4", "v1.10.0", "v1.10.1"}
 
 // DefaultToolVersion defines the default version of simple admin tools for migrate
-const DefaultToolVersion = "v1.10.2"
+const DefaultToolVersion = "v1.10.3"
 
 // GoctlsVersion is goctls version
-const GoctlsVersion = "v1.14.6"
+const GoctlsVersion = "v1.14.7"
 
 // CoreVersion is the core service version.
 const CoreVersion = "v1.8.6"
